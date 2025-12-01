@@ -128,7 +128,7 @@ Bu proje biyoinformatik ve makine öğrenmesi alanlarında protein yapı tahmini
 
 
 
-# 📂 Proje Dosyaları ve Açıklamaları
+# Proje Dosyaları ve Açıklamaları
 
 ## 📘 Notebook ve Python Script
 ### 🧪 bioenformatik.ipynb
