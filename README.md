@@ -125,6 +125,9 @@ Model performansları veri setine ve eğitim parametrelerine bağlı olarak değ
 
 Bu proje biyoinformatik ve makine öğrenmesi alanlarında protein yapı tahmini için geliştirilmiştir.
 
+
+
+
 # 📂 Proje Dosyaları ve Açıklamaları
 
 ## 📘 Notebook ve Python Script
