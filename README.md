@@ -121,6 +121,58 @@ Proje, her iki modelin performansını karşılaştırarak sonuçları görselle
 
 Model performansları veri setine ve eğitim parametrelerine bağlı olarak değişiklik gösterebilir. Detaylı sonuçlar notebook çıktılarında görülebilir.
 
+# 📂 Proje Dosyaları ve Açıklamaları
+
+## 📘 Notebook ve Python Script
+### 🧪 biyoenformatik.ipynb
+Projenin tüm adımlarını içeren ana notebook: FASTA okuma, Chou–Fasman analizi, EIIP özellik çıkarımı, SVM & CNN modelleri, metrik hesaplama ve tüm grafiklerin üretimi.
+
+### 🧬 biyoenformatik.py
+Notebook’un script formatı. Komut satırından çalıştırılabilir.
+
+---
+
+## 📄 Veri Dosyaları
+### proteinStructure.fasta
+Protein aminoasit dizilerinin bulunduğu FASTA dosyası.
+
+### eiip_dataset.xlsx
+EIIP değerleri ile sayısal olarak kodlanmış veri seti.
+
+### chou_fasman_results.xlsx
+Chou–Fasman eğilim skorları ve tahmin edilen sınıfları içerir.
+
+---
+
+## 🧠 CNN Modeli Çıktıları
+### cnn_accuracy_plot.png
+CNN eğitim doğruluk grafiği.
+
+### cnn_loss_plot.png
+CNN eğitim kayıp grafiği.
+
+### cnn_confusion_matrix.png
+CNN confusion matrix grafiği.
+
+### cnn_roc_curves.png
+CNN ROC eğrileri grafiği.
+
+### cnn_report.txt
+CNN classification report çıktısı.
+
+---
+
+## 🧠 SVM Modeli Çıktıları
+### svm_confusion_matrix.png
+SVM confusion matrix grafiği.
+
+### svm_metrics_plot.png
+SVM ve CNN metrik karşılaştırma grafiği.
+
+### svm_report.txt
+SVM classification report çıktısı.
+
+
 ## 👤 Geliştirici
 
 Bu proje biyoinformatik ve makine öğrenmesi alanlarında protein yapı tahmini için geliştirilmiştir.
