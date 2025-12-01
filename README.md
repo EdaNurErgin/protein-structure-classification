@@ -121,13 +121,17 @@ Proje, her iki modelin performansını karşılaştırarak sonuçları görselle
 
 Model performansları veri setine ve eğitim parametrelerine bağlı olarak değişiklik gösterebilir. Detaylı sonuçlar notebook çıktılarında görülebilir.
 
+## 👤 Geliştirici
+
+Bu proje biyoinformatik ve makine öğrenmesi alanlarında protein yapı tahmini için geliştirilmiştir.
+
 # 📂 Proje Dosyaları ve Açıklamaları
 
 ## 📘 Notebook ve Python Script
-### 🧪 biyoenformatik.ipynb
+### 🧪 bioenformatik.ipynb
 Projenin tüm adımlarını içeren ana notebook: FASTA okuma, Chou–Fasman analizi, EIIP özellik çıkarımı, SVM & CNN modelleri, metrik hesaplama ve tüm grafiklerin üretimi.
 
-### 🧬 biyoenformatik.py
+### 🧬 bioenformatik.py
 Notebook’un script formatı. Komut satırından çalıştırılabilir.
 
 ---
@@ -172,7 +176,3 @@ SVM ve CNN metrik karşılaştırma grafiği.
 ### svm_report.txt
 SVM classification report çıktısı.
 
-
-## 👤 Geliştirici
-
-Bu proje biyoinformatik ve makine öğrenmesi alanlarında protein yapı tahmini için geliştirilmiştir.
